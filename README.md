@@ -1,4 +1,3 @@
-# FS1
 # Recruits Task - Week #2
 - ## [git para noobs](https://hackmd.io/@PedroRomao/HJ0GJSae1x)
 - ## Add this file to your local git repository create a new branch and work on it, when you are done or as you complete the questions merge the branch into the main branch (remote main branch will have your final work, this means main branch on GitHub, please make the repository public for the next weeks).
